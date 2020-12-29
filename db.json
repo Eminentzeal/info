@@ -1,4 +1,4 @@
-[
+posts: Post[] = [
   {
     "id": 1,
     "title": "Mrs Chioma",
